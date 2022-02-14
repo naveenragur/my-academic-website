@@ -11,7 +11,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
+  - icon: researchgate
     icon_pack: fas
     link: https://www.researchgate.net/profile/Naveen-Ragu-Ramalingam
   - icon: github
