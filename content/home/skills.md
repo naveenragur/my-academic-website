@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 70%
   icon: python
   icon_pack: fab
   name: Programming with Python and R
-- description: 100%
+- description: 80%
   icon: chart-line
   icon_pack: fas
   name: Probability and Statistics
-- description: 10%
+- description: 100%
   icon: house-flood
   icon_pack: fas
-  name: Flood Risk
+  name: Flood Risk Assessment
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
