@@ -40,4 +40,4 @@ highlight_name: true
 ---
 Naveen is a doctoral candidate in the the UME (Understanding and Managing Extremes) Programme offered by Scuola Universitaria Superiore (IUSS) di Pavia (University School of Advanced Studies, Pavia) focused towards the assessment and mitigation of risks due to natural hazards.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/11gbuKEWK-EhjA02Kd6aBqUyJBNR7Lqe0/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
