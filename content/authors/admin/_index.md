@@ -12,7 +12,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: researchgate
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Naveen-Ragu-Ramalingam
   - icon: github
     icon_pack: fab
