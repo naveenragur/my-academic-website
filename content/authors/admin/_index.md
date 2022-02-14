@@ -28,7 +28,7 @@ education:
     - course: PhD in Understanding and Managing Extremes (2020-2024)
       institution: University School for Advanced Studies - IUSS Pavia
       year: ""
-    - course: MEng in Hydrology and Water Resources (2012-2014)
+    - course: MEng in Hydrology and Water Resources Engineering (2012-2014)
       institution: College of Engineering Guindy, Anna University
       year: ""
     - course: BEng in Civil Engineering (2008-2012)
