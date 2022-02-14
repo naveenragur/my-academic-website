@@ -26,7 +26,7 @@ feature:
   name: Probability and Statistics
 - description: 10%
   icon: house-flood
-  icon_pack: solid
+  icon_pack: fas
   name: Flood Risk
 
 # Uncomment to use emoji icons.
