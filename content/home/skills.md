@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Probability and Statistics
 - description: 100%
-  icon: fa-house
+  icon: house-flood
   icon_pack: fas
   name: Flood Risk Assessment
 
