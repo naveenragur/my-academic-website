@@ -1,7 +1,7 @@
 ---
 title: Naveen Ragu Ramalingam
 role: Doctoral Candidate
-avatar_filename: avatar.jpg
+avatar_filename: null
 bio: My research interests include catastrophe risk assessment and management.
 interests:
   - Catastrophe Risk Assessment
